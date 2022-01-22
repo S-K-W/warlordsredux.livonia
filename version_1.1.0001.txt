@@ -1,0 +1,15 @@
+Started from 2.1.0009 Korb-dev
+
+  
+Livonia 1.1.0001
+	- moved wl2 redux mission to livonia
+	- edits in asset list
+		- Nato -> Nato Woodland
+		- CSAT -> CSAT Pacific
+		- Indep -> LDF
+		- added CTRG units to Nato
+		- added Viper units to CSAT
+		- only light vehicles allowed for Nato and CSAT (no APC´s/ Tanks)
+		- no fixed wings
+		- only Transport Heli´s
+		
